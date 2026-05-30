@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+
+# macOS
+.DS_Store
+
+# Playwright
+playwright-report/
+
+# Saídas geradas (regeneráveis)
+saida_casa_3d/catalogo_modulos/
+saida_casa_3d/catalogo_paginas/
+saida_casa_3d/book/_capturas/
+
+# Backups locais
+_backup_*/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.cursor/

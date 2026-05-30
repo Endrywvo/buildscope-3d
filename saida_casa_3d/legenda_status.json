@@ -1,0 +1,83 @@
+{
+  "projeto": "Casa 3D",
+  "atualizado_em": "2026-05-30T21:10:00.037706+00:00",
+  "status": [
+    {
+      "status": "NAO INICIADO",
+      "rgb": [
+        180,
+        180,
+        180
+      ],
+      "hex": "#B4B4B4",
+      "nome_cor": "CINZA CLARO",
+      "descricao": "Módulo ainda não iniciado."
+    },
+    {
+      "status": "PENDENTE",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFF",
+      "nome_cor": "BRANCO",
+      "descricao": "Módulo pendente de definição ou início."
+    },
+    {
+      "status": "EM ANDAMENTO",
+      "rgb": [
+        93,
+        173,
+        226
+      ],
+      "hex": "#5DADE2",
+      "nome_cor": "AZUL",
+      "descricao": "Módulo em execução."
+    },
+    {
+      "status": "CONCLUIDO",
+      "rgb": [
+        42,
+        157,
+        143
+      ],
+      "hex": "#2A9D8F",
+      "nome_cor": "VERDE",
+      "descricao": "Módulo concluído."
+    },
+    {
+      "status": "BLOQUEADO",
+      "rgb": [
+        80,
+        80,
+        80
+      ],
+      "hex": "#505050",
+      "nome_cor": "CINZA ESCURO",
+      "descricao": "Módulo bloqueado — aguardando liberação."
+    },
+    {
+      "status": "INSPECIONAR",
+      "rgb": [
+        231,
+        76,
+        60
+      ],
+      "hex": "#E74C3C",
+      "nome_cor": "VERMELHO",
+      "descricao": "Módulo pendente de inspeção."
+    },
+    {
+      "status": "SEM INFORMACAO",
+      "rgb": [
+        200,
+        200,
+        200
+      ],
+      "hex": "#C8C8C8",
+      "nome_cor": "CINZA",
+      "descricao": "Status não informado na planilha."
+    }
+  ]
+}
