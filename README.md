@@ -139,7 +139,3 @@ pandas, openpyxl, playwright, pillow, reportlab
 Validação: `./scripts/validar.sh`
 
 ---
-
-## Backup do projeto anterior
-
-Conteúdo industrial movido para `_backup_refatoracao_casa_3d/` — nada foi apagado permanentemente.
