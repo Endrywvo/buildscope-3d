@@ -1,7 +1,7 @@
 # Análise da planilha de módulos
 
 **Arquivo:** `controle_modulos_casa.xlsx`
-**Gerado em:** 2026-05-30 18:02:11
+**Gerado em:** 2026-08-24 17:43:37
 
 - Total de módulos: **15**
 - Sem status: **0**
